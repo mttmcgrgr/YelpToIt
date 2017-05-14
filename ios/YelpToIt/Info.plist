@@ -42,6 +42,22 @@
 	<string></string>
 	<key>NSAppTransportSecurity</key>
 	<!--See http://ste.vn/2015/06/10/configuring-app-transport-security-ios-9-osx-10-11/ -->
+	<key>UberClientID</key>
+	<string>OYkJKZyVWfSGNulrW5tz3ZnH2e5VRZRw</string>
+	<key>UberServerToken<key>
+	<string>HI_M9sGSXlnwTj_nHSgkcd3bFR-0C3BJWtWDoXTC</string>
+	<key>UberDisplayName</key>
+	<string>YelpToIt</string>
+	<key>UberCallbackURIs</key>
+	<array>
+	    <dict>
+	        <key>UberCallbackURIType</key>
+	        <string>General</string>
+	        <key>URIString</key>
+	        <string>http://localhost:3000/#/</string>
+	    </dict>
+	</array>
+
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
